@@ -154,7 +154,8 @@ a:hover { text-decoration: underline; }
   max-width: 640px;
 }
 .person h3 { margin-top: 0; font-size: 1.4rem; }
-.person-role { color: var(--muted); font-size: 0.95rem; }
+.person-role { color: var(--muted); font-size: 0.95rem; margin-bottom: 0.25rem; }
+.person-aff { color: var(--muted); font-size: 0.95rem; margin-top: 0; }
 .person-links a { margin-right: 1.2rem; font-size: 0.95rem; }
 
 /* Contact */
